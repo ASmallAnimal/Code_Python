@@ -10,4 +10,4 @@ for i in range(1,darts+1):
         hits+=1
 pi=4*(hits/darts)
 print("pi is {}".format(pi))
-print("time is {:.5f}s".format(perf_counter().start))
+print("time is {:.5f}s".format(perf_counter()-start))
