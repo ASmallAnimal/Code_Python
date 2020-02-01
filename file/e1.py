@@ -1,0 +1,7 @@
+t1=open("D:/txt/txt1.txt","r")
+s=t1.read(3)
+print(s)
+s=t1.readline(3)
+print(s)
+s=t1.readlines(12)
+print(s)
