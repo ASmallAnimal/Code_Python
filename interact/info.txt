@@ -1,0 +1,9 @@
+pyqt5
+- Qt5程序的Python ApI接口
+- Qt是非常成熟的跨平台应用开发系统，完备GUI
+- 推荐的python GUI开发第三方库
+
+wxPython：跨平台GUI开发平台
+
+pyGObject
+

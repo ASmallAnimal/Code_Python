@@ -1,0 +1,56 @@
+Request
+import request
+r = requests.get("http://..,\
+                auth=('user','pass'))
+r.status_code
+r.headers['content-type']
+r.encoding
+r.text
+
+/
+..........................
+
+Scrapy:优秀的网络爬虫的框架
+http://scrapy.org
+
+''''''''''''''''''''''''''''''''
+
+pyspider:强大的web页面爬取系统
+
+..............................
+
+Beautiful Soup:Html和XML的解析库
+下行遍历，平行遍历
+Re：正则表达式解析和处理功能库
+-定点的web信息提取
+re.search()
+re.match()
+re.findall()
+re.split()
+re.findter()
+re.sub()
+................................
+
+Python-Goose:提取文章类型的web页面
+
+................................
+
+Django:最流行的Web应用框架
+-MTV
+
+................................
+
+Pyramid:规模适中的web应用框架
+
+................................
+
+Flask web应用开发微框架
+简单
+
+''''''''''''''''''''''''''''''''
+
+开发：
+WeRobot：微信公众号机器人
+aip:百度AI开放平台接口
+MyQr：二维码生成的第三方库
+
